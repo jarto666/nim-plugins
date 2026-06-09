@@ -1,0 +1,18 @@
+{
+  "name": "nim-plugins",
+  "owner": {
+    "name": "Nim"
+  },
+  "description": "Claude Code plugins for Nim image and video generation workflows.",
+  "plugins": [
+    {
+      "name": "nim",
+      "displayName": "Nim",
+      "description": "Generate images, videos, and client-facing creative assets with Nim through MCP.",
+      "version": "0.1.0",
+      "source": "./plugins/nim",
+      "category": "creative",
+      "tags": ["nim", "mcp", "image-generation", "video-generation"]
+    }
+  ]
+}

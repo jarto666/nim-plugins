@@ -1,0 +1,12 @@
+{
+  "name": "nim",
+  "displayName": "Nim",
+  "description": "Generate images, videos, and client-facing creative assets with Nim through MCP.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nim"
+  },
+  "repository": "https://github.com/jarto666/nim-plugins",
+  "license": "MIT",
+  "mcpServers": "./.mcp.json"
+}
