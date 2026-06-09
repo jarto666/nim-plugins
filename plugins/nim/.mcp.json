@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "nim": {
+    "Nim": {
       "type": "http",
       "url": "https://mcp.nim.video/mcp"
     }
