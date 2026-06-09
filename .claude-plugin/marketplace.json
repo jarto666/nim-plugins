@@ -13,6 +13,15 @@
       "source": "./plugins/nim",
       "category": "creative",
       "tags": ["nim", "mcp", "image-generation", "video-generation"]
+    },
+    {
+      "name": "nim-architects",
+      "displayName": "Nim Architects",
+      "description": "Create architecture and real-estate pitch assets with Nim workflows.",
+      "version": "0.1.0",
+      "source": "./plugins/nim-architects",
+      "category": "creative",
+      "tags": ["nim", "architecture", "real-estate", "pitch", "mcp"]
     }
   ]
 }

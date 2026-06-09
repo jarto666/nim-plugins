@@ -1,0 +1,17 @@
+{
+  "name": "nim-architects",
+  "displayName": "Nim Architects",
+  "description": "Create architecture and real-estate pitch assets with Nim workflows.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nim"
+  },
+  "repository": "https://github.com/jarto666/nim-plugins",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "nim",
+      "version": "^0.1.0"
+    }
+  ]
+}
